@@ -1,4 +1,4 @@
-This is a chat application project created with springboot and used vanilla js for frontend.
+<h1>This is a chat application project created with springboot and used vanilla js for frontend.</h1>
 
 Getting Started:
 
